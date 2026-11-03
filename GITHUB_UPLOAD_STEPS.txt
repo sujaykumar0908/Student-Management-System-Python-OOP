@@ -1,0 +1,35 @@
+GITHUB UPLOAD INSTRUCTIONS
+==========================
+
+1. Sign in to https://github.com/ (create a free account if needed).
+2. Click the + icon in the top-right corner, then choose "New repository".
+3. Repository name: Student-Management-System-Python-OOP
+4. Add a short description: "A beginner-friendly Student Management System using Python OOP."
+5. Choose Public (unless your instructor specifically asks for a private repository).
+6. Select "Add a README file" only if you are NOT uploading the README.md included in this project. To avoid duplicate README files, it is easiest to leave this unchecked.
+7. Click "Create repository".
+8. On the new repository page, choose "Add file" > "Upload files".
+9. Extract the downloaded ZIP on your computer/phone.
+10. Open the extracted Student_Management_System_OOP folder and upload:
+    - main.py
+    - README.md
+    - sample_output.txt
+    - GITHUB_UPLOAD_STEPS.txt
+11. Add a commit message such as "Add Student Management System Python OOP project".
+12. Click "Commit changes".
+13. Check that main.py and README.md are visible in your repository.
+14. Copy the repository URL from the browser address bar. It should look like:
+    https://github.com/YOUR-USERNAME/Student-Management-System-Python-OOP
+15. Open the assignment Google Form:
+    https://forms.gle/sMeX3yGVgnZnbAY27
+16. Paste your repository URL in the required field and submit the form.
+
+BEFORE SUBMITTING
+-----------------
+- Replace the author placeholder in README.md with your own name/class details.
+- Run main.py once and check that the menu works.
+- Make sure the repository is public if your instructor needs to access it.
+- Open the repository link in a private/incognito browser window to confirm it is viewable.
+- Submit before November 4, 2026, 10:00 AM (India time).
+
+This project does not submit itself. You must upload it to your GitHub account and submit the repository URL through the form.
